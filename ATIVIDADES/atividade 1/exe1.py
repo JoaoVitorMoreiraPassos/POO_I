@@ -1,0 +1,1 @@
+print(f"Celsius: {5*(float(input('Insira uma temperatura: '))-32)/9:.2f}")

@@ -1,0 +1,4 @@
+Uma linguagem interpretada quando é executada e faz a leitura do codio linha por linha
+e não é executado pelo sistema operacional ou diretamente pelo processador.
+Em uma linguagem compilada o passa por um por um processo de compilação e é convertido para linguagem de máquina que pode ser lido pelo processador e pelo sistema operacional.
+Python é um linguagem interpretada.

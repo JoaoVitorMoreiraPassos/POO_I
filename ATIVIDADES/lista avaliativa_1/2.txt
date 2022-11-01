@@ -1,0 +1,11 @@
+Django: é um framework de alto nível com código aberto, serve para facilitar
+no desenvevolvimento de aplicações web, Sites como o Instagram, Mozilla e Pinterest o usam, uma de suas vantagens é sua grande otimização.
+
+Flask: É um framework web baseado nas bibliotecas WSGI Werkzeug e Jinja2,
+serve para desenvevolvimento web, é utilizado na Trivago, é mais recomendado para pequenos projetos.
+
+PyQT5: É um framework de interfaces gráficas open source, serve para desevovelver intefaces graficas geralmente para aplicações desktop utilizando a linguagem python, pode se utizado em empresas que desevolvem sistemas para desktops, uma de suas vantagens é que é cross plataform podendo ser usado em sistemas diferente.
+
+web2py: É um framework de código aberto também permite que os desenvoldores programem conteudo web dinamico, server para desenvolvimento web, uma de suas vantagens é que ele é autocontido, pode ser utilizado em projetos web.
+
+Bottle: É um micro-framework WSGI, serve para a criação de APIs Web, é um framework rápido, simples e leve, pode ser utilizado em projetos web.
